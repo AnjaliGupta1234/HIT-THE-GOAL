@@ -1,0 +1,17 @@
+.body_background{
+    background-position:center;
+    background-size:contain; background:url(https://ak.picdn.net/shutterstock/videos/1053022112/thumb/1.jpg?ip=x480);
+  }
+  
+  #myCanvas{
+    border-width:10px;
+    border-style:ridge;
+    background-color:#388E3C;
+  }
+  
+  #hd3{
+    display:inline-block;
+    color:red;
+    background-color:#AED581;
+    font-family:fantasy;
+  }
